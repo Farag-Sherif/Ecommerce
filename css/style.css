@@ -180,6 +180,7 @@ header .container .fa-bars:hover{
 .brands{
 	background-color:var(--third-color);
 	padding:var(--main-padding) 0;
+	overflow: hidden;
  }
 .brands .container{
     display: flex;
